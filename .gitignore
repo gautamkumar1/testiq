@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+package-lock.json
+.DS_Store
+.eslintcache
+.prettierrc
+.vscode
+.cursorrules
+.cursorignore
+.cursorignore
